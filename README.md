@@ -15,6 +15,32 @@ My solution:
 This improved donor retention by **~20%** and raised on-time reporting to **95%**.  
 
 ---
+## How I Built the Dashboard
+
+1. **Data Prep**  
+   - Collected donor + regional impact data (2018–2024).  
+   - Standardized input using Excel templates with locked KPI fields.  
+   - Cleaned and saved consolidated data as CSV (`NGO_Data_Final.csv`).  
+
+2. **Tableau Setup**  
+   - Connected the CSV as the main datasource.  
+   - Built calculated fields for:
+     - Donor Retention %
+     - Students Supported (cumulative)
+     - Funds Collected by Origin (XOF)
+   - Added slicers for Region and Donor Origin.  
+
+3. **Visuals**  
+   - **Line chart**: Donor retention % over time.  
+   - **Bar chart**: Funds collected by donor origin (Côte d’Ivoire, France, UNESCO).  
+   - **Map**: Students supported by region.  
+   - **Scatterplot**: Relationship between funds raised and students supported.  
+
+4. **Automation**  
+   - Power BI refresh connected to central SharePoint folder (auto-updated CSV).  
+   - Stakeholders had access to the online dashboard anytime.
+  
+---
 
 ## Dashboard Highlights
 - **Retention Curve** → donor retention rate over time, benchmarked at 75%.  
