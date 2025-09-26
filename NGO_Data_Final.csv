@@ -1,0 +1,785 @@
+Mois,Région,Élèves_soutenus,Fonds_collectés_XOF,Donateur,Origine_donateur,Taux_rétention_donateurs,Rapport_à_temps
+2018-01,Abidjan,5,1460572,Particuliers locaux,Côte d’Ivoire,0.5903860719024168,1
+2018-01,Abidjan,5,1535910,Entreprises locales,Côte d’Ivoire,0.5903860719024168,1
+2018-01,Bouaké,1,292114,Particuliers locaux,Côte d’Ivoire,0.5903860719024168,1
+2018-01,Bouaké,1,307182,Entreprises locales,Côte d’Ivoire,0.5903860719024168,1
+2018-01,Yamoussoukro,2,584228,Particuliers locaux,Côte d’Ivoire,0.5903860719024168,1
+2018-01,Yamoussoukro,2,614364,Entreprises locales,Côte d’Ivoire,0.5903860719024168,1
+2018-01,San Pedro,5,1460572,Particuliers locaux,Côte d’Ivoire,0.5903860719024168,1
+2018-01,San Pedro,5,1535910,Entreprises locales,Côte d’Ivoire,0.5903860719024168,1
+2018-02,Abidjan,2,667498,Particuliers locaux,Côte d’Ivoire,0.5780757544120473,1
+2018-02,Abidjan,2,884018,Entreprises locales,Côte d’Ivoire,0.5780757544120473,1
+2018-02,Bouaké,2,667498,Particuliers locaux,Côte d’Ivoire,0.5780757544120473,1
+2018-02,Bouaké,2,884018,Entreprises locales,Côte d’Ivoire,0.5780757544120473,1
+2018-02,Yamoussoukro,2,667498,Particuliers locaux,Côte d’Ivoire,0.5780757544120473,1
+2018-02,Yamoussoukro,2,884018,Entreprises locales,Côte d’Ivoire,0.5780757544120473,1
+2018-02,San Pedro,2,667498,Particuliers locaux,Côte d’Ivoire,0.5780757544120473,1
+2018-02,San Pedro,2,884018,Entreprises locales,Côte d’Ivoire,0.5780757544120473,1
+2018-03,Abidjan,3,1257043,Particuliers locaux,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Abidjan,3,1275273,Entreprises locales,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Abidjan,3,2050704,USAID,États-Unis,0.5766782180365988,1
+2018-03,Bouaké,3,1257043,Particuliers locaux,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Bouaké,3,1275273,Entreprises locales,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Bouaké,3,2050704,USAID,États-Unis,0.5766782180365988,1
+2018-03,Yamoussoukro,1,419014,Particuliers locaux,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Yamoussoukro,1,425091,Entreprises locales,Côte d’Ivoire,0.5766782180365988,1
+2018-03,Yamoussoukro,1,683568,USAID,États-Unis,0.5766782180365988,1
+2018-03,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.5766782180365988,1
+2018-03,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.5766782180365988,1
+2018-03,San Pedro,0,0,USAID,États-Unis,0.5766782180365988,1
+2018-04,Abidjan,1,1176339,Particuliers locaux,Côte d’Ivoire,0.6088347096556429,0
+2018-04,Abidjan,1,1978584,Entreprises locales,Côte d’Ivoire,0.6088347096556429,0
+2018-04,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6088347096556429,0
+2018-04,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6088347096556429,0
+2018-04,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.6088347096556429,0
+2018-04,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.6088347096556429,0
+2018-04,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.6088347096556429,0
+2018-04,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.6088347096556429,0
+2018-05,Abidjan,3,1033462,Particuliers locaux,Côte d’Ivoire,0.5912342976891076,1
+2018-05,Abidjan,3,1275723,Entreprises locales,Côte d’Ivoire,0.5912342976891076,1
+2018-05,Bouaké,3,1033462,Particuliers locaux,Côte d’Ivoire,0.5912342976891076,1
+2018-05,Bouaké,3,1275723,Entreprises locales,Côte d’Ivoire,0.5912342976891076,1
+2018-05,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.5912342976891076,1
+2018-05,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.5912342976891076,1
+2018-05,San Pedro,3,1033462,Particuliers locaux,Côte d’Ivoire,0.5912342976891076,1
+2018-05,San Pedro,3,1275723,Entreprises locales,Côte d’Ivoire,0.5912342976891076,1
+2018-06,Abidjan,3,1230453,Particuliers locaux,Côte d’Ivoire,0.5902357607324455,1
+2018-06,Abidjan,3,1326253,Entreprises locales,Côte d’Ivoire,0.5902357607324455,1
+2018-06,Bouaké,3,1230453,Particuliers locaux,Côte d’Ivoire,0.5902357607324455,1
+2018-06,Bouaké,3,1326253,Entreprises locales,Côte d’Ivoire,0.5902357607324455,1
+2018-06,Yamoussoukro,2,820302,Particuliers locaux,Côte d’Ivoire,0.5902357607324455,1
+2018-06,Yamoussoukro,2,884169,Entreprises locales,Côte d’Ivoire,0.5902357607324455,1
+2018-06,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.5902357607324455,1
+2018-06,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.5902357607324455,1
+2018-07,Abidjan,3,1065426,Particuliers locaux,Côte d’Ivoire,0.59860999251321,1
+2018-07,Abidjan,3,1221521,Entreprises locales,Côte d’Ivoire,0.59860999251321,1
+2018-07,Abidjan,3,2264637,Fondation Orange,France,0.59860999251321,1
+2018-07,Bouaké,1,355142,Particuliers locaux,Côte d’Ivoire,0.59860999251321,1
+2018-07,Bouaké,1,407173,Entreprises locales,Côte d’Ivoire,0.59860999251321,1
+2018-07,Bouaké,1,754879,Fondation Orange,France,0.59860999251321,1
+2018-07,Yamoussoukro,1,355142,Particuliers locaux,Côte d’Ivoire,0.59860999251321,1
+2018-07,Yamoussoukro,1,407173,Entreprises locales,Côte d’Ivoire,0.59860999251321,1
+2018-07,Yamoussoukro,1,754879,Fondation Orange,France,0.59860999251321,1
+2018-07,San Pedro,2,710284,Particuliers locaux,Côte d’Ivoire,0.59860999251321,1
+2018-07,San Pedro,2,814347,Entreprises locales,Côte d’Ivoire,0.59860999251321,1
+2018-07,San Pedro,2,1509758,Fondation Orange,France,0.59860999251321,1
+2018-08,Abidjan,1,374966,Particuliers locaux,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Abidjan,1,349387,Entreprises locales,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Abidjan,1,636405,Ambassade du Canada,Canada,0.6026687810832975,1
+2018-08,Bouaké,5,1874832,Particuliers locaux,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Bouaké,5,1746935,Entreprises locales,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Bouaké,5,3182026,Ambassade du Canada,Canada,0.6026687810832975,1
+2018-08,Yamoussoukro,1,374966,Particuliers locaux,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Yamoussoukro,1,349387,Entreprises locales,Côte d’Ivoire,0.6026687810832975,1
+2018-08,Yamoussoukro,1,636405,Ambassade du Canada,Canada,0.6026687810832975,1
+2018-08,San Pedro,3,1124899,Particuliers locaux,Côte d’Ivoire,0.6026687810832975,1
+2018-08,San Pedro,3,1048161,Entreprises locales,Côte d’Ivoire,0.6026687810832975,1
+2018-08,San Pedro,3,1909215,Ambassade du Canada,Canada,0.6026687810832975,1
+2018-09,Abidjan,2,801197,Particuliers locaux,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Abidjan,2,828721,Entreprises locales,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Abidjan,2,1381477,Ambassade du Canada,Canada,0.5928136285943182,1
+2018-09,Bouaké,5,2002994,Particuliers locaux,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Bouaké,5,2071803,Entreprises locales,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Bouaké,5,3453694,Ambassade du Canada,Canada,0.5928136285943182,1
+2018-09,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.5928136285943182,1
+2018-09,Yamoussoukro,0,0,Ambassade du Canada,Canada,0.5928136285943182,1
+2018-09,San Pedro,3,1201796,Particuliers locaux,Côte d’Ivoire,0.5928136285943182,1
+2018-09,San Pedro,3,1243081,Entreprises locales,Côte d’Ivoire,0.5928136285943182,1
+2018-09,San Pedro,3,2072216,Ambassade du Canada,Canada,0.5928136285943182,1
+2018-10,Abidjan,1,362105,Particuliers locaux,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Abidjan,1,542484,Entreprises locales,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Abidjan,1,800262,Fondation Orange,France,0.6096487579344237,0
+2018-10,Bouaké,2,724211,Particuliers locaux,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Bouaké,2,1084969,Entreprises locales,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Bouaké,2,1600524,Fondation Orange,France,0.6096487579344237,0
+2018-10,Yamoussoukro,2,724211,Particuliers locaux,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Yamoussoukro,2,1084969,Entreprises locales,Côte d’Ivoire,0.6096487579344237,0
+2018-10,Yamoussoukro,2,1600524,Fondation Orange,France,0.6096487579344237,0
+2018-10,San Pedro,1,362105,Particuliers locaux,Côte d’Ivoire,0.6096487579344237,0
+2018-10,San Pedro,1,542484,Entreprises locales,Côte d’Ivoire,0.6096487579344237,0
+2018-10,San Pedro,1,800262,Fondation Orange,France,0.6096487579344237,0
+2018-11,Abidjan,1,414686,Particuliers locaux,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Abidjan,1,550598,Entreprises locales,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Abidjan,1,668684,USAID,États-Unis,0.5926900303533478,1
+2018-11,Bouaké,3,1244059,Particuliers locaux,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Bouaké,3,1651794,Entreprises locales,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Bouaké,3,2006053,USAID,États-Unis,0.5926900303533478,1
+2018-11,Yamoussoukro,2,829373,Particuliers locaux,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Yamoussoukro,2,1101196,Entreprises locales,Côte d’Ivoire,0.5926900303533478,1
+2018-11,Yamoussoukro,2,1337368,USAID,États-Unis,0.5926900303533478,1
+2018-11,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.5926900303533478,1
+2018-11,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.5926900303533478,1
+2018-11,San Pedro,0,0,USAID,États-Unis,0.5926900303533478,1
+2018-12,Abidjan,5,2193864,Particuliers locaux,Côte d’Ivoire,0.6088727982166916,0
+2018-12,Abidjan,5,2166194,Entreprises locales,Côte d’Ivoire,0.6088727982166916,0
+2018-12,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6088727982166916,0
+2018-12,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6088727982166916,0
+2018-12,Yamoussoukro,1,438772,Particuliers locaux,Côte d’Ivoire,0.6088727982166916,0
+2018-12,Yamoussoukro,1,433238,Entreprises locales,Côte d’Ivoire,0.6088727982166916,0
+2018-12,San Pedro,1,438772,Particuliers locaux,Côte d’Ivoire,0.6088727982166916,0
+2018-12,San Pedro,1,433238,Entreprises locales,Côte d’Ivoire,0.6088727982166916,0
+2019-01,Abidjan,6,2086440,Particuliers locaux,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Abidjan,6,2170741,Entreprises locales,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Abidjan,6,3339218,Ambassade du Canada,Canada,0.6071156029619991,0
+2019-01,Bouaké,3,1043220,Particuliers locaux,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Bouaké,3,1085370,Entreprises locales,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Bouaké,3,1669609,Ambassade du Canada,Canada,0.6071156029619991,0
+2019-01,Yamoussoukro,1,347740,Particuliers locaux,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Yamoussoukro,1,361790,Entreprises locales,Côte d’Ivoire,0.6071156029619991,0
+2019-01,Yamoussoukro,1,556536,Ambassade du Canada,Canada,0.6071156029619991,0
+2019-01,San Pedro,1,347740,Particuliers locaux,Côte d’Ivoire,0.6071156029619991,0
+2019-01,San Pedro,1,361790,Entreprises locales,Côte d’Ivoire,0.6071156029619991,0
+2019-01,San Pedro,1,556536,Ambassade du Canada,Canada,0.6071156029619991,0
+2019-02,Abidjan,4,1458914,Particuliers locaux,Côte d’Ivoire,0.6098332275217353,1
+2019-02,Abidjan,4,1770575,Entreprises locales,Côte d’Ivoire,0.6098332275217353,1
+2019-02,Bouaké,2,729457,Particuliers locaux,Côte d’Ivoire,0.6098332275217353,1
+2019-02,Bouaké,2,885287,Entreprises locales,Côte d’Ivoire,0.6098332275217353,1
+2019-02,Yamoussoukro,2,729457,Particuliers locaux,Côte d’Ivoire,0.6098332275217353,1
+2019-02,Yamoussoukro,2,885287,Entreprises locales,Côte d’Ivoire,0.6098332275217353,1
+2019-02,San Pedro,2,729457,Particuliers locaux,Côte d’Ivoire,0.6098332275217353,1
+2019-02,San Pedro,2,885287,Entreprises locales,Côte d’Ivoire,0.6098332275217353,1
+2019-03,Abidjan,1,485028,Particuliers locaux,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Abidjan,1,530306,Entreprises locales,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Abidjan,1,1014567,Fondation Orange,France,0.6101899582511631,1
+2019-03,Bouaké,1,485028,Particuliers locaux,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Bouaké,1,530306,Entreprises locales,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Bouaké,1,1014567,Fondation Orange,France,0.6101899582511631,1
+2019-03,Yamoussoukro,2,970057,Particuliers locaux,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Yamoussoukro,2,1060612,Entreprises locales,Côte d’Ivoire,0.6101899582511631,1
+2019-03,Yamoussoukro,2,2029134,Fondation Orange,France,0.6101899582511631,1
+2019-03,San Pedro,1,485028,Particuliers locaux,Côte d’Ivoire,0.6101899582511631,1
+2019-03,San Pedro,1,530306,Entreprises locales,Côte d’Ivoire,0.6101899582511631,1
+2019-03,San Pedro,1,1014567,Fondation Orange,France,0.6101899582511631,1
+2019-04,Abidjan,1,413214,Particuliers locaux,Côte d’Ivoire,0.6104405395195975,1
+2019-04,Abidjan,1,471932,Entreprises locales,Côte d’Ivoire,0.6104405395195975,1
+2019-04,Bouaké,2,826428,Particuliers locaux,Côte d’Ivoire,0.6104405395195975,1
+2019-04,Bouaké,2,943864,Entreprises locales,Côte d’Ivoire,0.6104405395195975,1
+2019-04,Yamoussoukro,2,826428,Particuliers locaux,Côte d’Ivoire,0.6104405395195975,1
+2019-04,Yamoussoukro,2,943864,Entreprises locales,Côte d’Ivoire,0.6104405395195975,1
+2019-04,San Pedro,1,413214,Particuliers locaux,Côte d’Ivoire,0.6104405395195975,1
+2019-04,San Pedro,1,471932,Entreprises locales,Côte d’Ivoire,0.6104405395195975,1
+2019-05,Abidjan,5,1394010,Particuliers locaux,Côte d’Ivoire,0.6218883223299011,0
+2019-05,Abidjan,5,1833683,Entreprises locales,Côte d’Ivoire,0.6218883223299011,0
+2019-05,Bouaké,2,557604,Particuliers locaux,Côte d’Ivoire,0.6218883223299011,0
+2019-05,Bouaké,2,733473,Entreprises locales,Côte d’Ivoire,0.6218883223299011,0
+2019-05,Yamoussoukro,3,836406,Particuliers locaux,Côte d’Ivoire,0.6218883223299011,0
+2019-05,Yamoussoukro,3,1100210,Entreprises locales,Côte d’Ivoire,0.6218883223299011,0
+2019-05,San Pedro,1,278802,Particuliers locaux,Côte d’Ivoire,0.6218883223299011,0
+2019-05,San Pedro,1,366736,Entreprises locales,Côte d’Ivoire,0.6218883223299011,0
+2019-06,Abidjan,5,1622431,Particuliers locaux,Côte d’Ivoire,0.6289652459714952,0
+2019-06,Abidjan,5,1645367,Entreprises locales,Côte d’Ivoire,0.6289652459714952,0
+2019-06,Bouaké,4,1297945,Particuliers locaux,Côte d’Ivoire,0.6289652459714952,0
+2019-06,Bouaké,4,1316294,Entreprises locales,Côte d’Ivoire,0.6289652459714952,0
+2019-06,Yamoussoukro,4,1297945,Particuliers locaux,Côte d’Ivoire,0.6289652459714952,0
+2019-06,Yamoussoukro,4,1316294,Entreprises locales,Côte d’Ivoire,0.6289652459714952,0
+2019-06,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.6289652459714952,0
+2019-06,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.6289652459714952,0
+2019-07,Abidjan,4,1488704,Particuliers locaux,Côte d’Ivoire,0.6026517724470014,1
+2019-07,Abidjan,4,1703707,Entreprises locales,Côte d’Ivoire,0.6026517724470014,1
+2019-07,Bouaké,2,744352,Particuliers locaux,Côte d’Ivoire,0.6026517724470014,1
+2019-07,Bouaké,2,851853,Entreprises locales,Côte d’Ivoire,0.6026517724470014,1
+2019-07,Yamoussoukro,2,744352,Particuliers locaux,Côte d’Ivoire,0.6026517724470014,1
+2019-07,Yamoussoukro,2,851853,Entreprises locales,Côte d’Ivoire,0.6026517724470014,1
+2019-07,San Pedro,1,372176,Particuliers locaux,Côte d’Ivoire,0.6026517724470014,1
+2019-07,San Pedro,1,425926,Entreprises locales,Côte d’Ivoire,0.6026517724470014,1
+2019-08,Abidjan,2,662735,Particuliers locaux,Côte d’Ivoire,0.6405084425430718,1
+2019-08,Abidjan,2,708688,Entreprises locales,Côte d’Ivoire,0.6405084425430718,1
+2019-08,Bouaké,1,331367,Particuliers locaux,Côte d’Ivoire,0.6405084425430718,1
+2019-08,Bouaké,1,354344,Entreprises locales,Côte d’Ivoire,0.6405084425430718,1
+2019-08,Yamoussoukro,1,331367,Particuliers locaux,Côte d’Ivoire,0.6405084425430718,1
+2019-08,Yamoussoukro,1,354344,Entreprises locales,Côte d’Ivoire,0.6405084425430718,1
+2019-08,San Pedro,3,994103,Particuliers locaux,Côte d’Ivoire,0.6405084425430718,1
+2019-08,San Pedro,3,1063032,Entreprises locales,Côte d’Ivoire,0.6405084425430718,1
+2019-09,Abidjan,5,1455135,Particuliers locaux,Côte d’Ivoire,0.6540434690976922,1
+2019-09,Abidjan,5,1587645,Entreprises locales,Côte d’Ivoire,0.6540434690976922,1
+2019-09,Bouaké,2,582054,Particuliers locaux,Côte d’Ivoire,0.6540434690976922,1
+2019-09,Bouaké,2,635058,Entreprises locales,Côte d’Ivoire,0.6540434690976922,1
+2019-09,Yamoussoukro,2,582054,Particuliers locaux,Côte d’Ivoire,0.6540434690976922,1
+2019-09,Yamoussoukro,2,635058,Entreprises locales,Côte d’Ivoire,0.6540434690976922,1
+2019-09,San Pedro,3,873081,Particuliers locaux,Côte d’Ivoire,0.6540434690976922,1
+2019-09,San Pedro,3,952587,Entreprises locales,Côte d’Ivoire,0.6540434690976922,1
+2019-10,Abidjan,2,824729,Particuliers locaux,Côte d’Ivoire,0.6369352181415183,1
+2019-10,Abidjan,2,925078,Entreprises locales,Côte d’Ivoire,0.6369352181415183,1
+2019-10,Bouaké,2,824729,Particuliers locaux,Côte d’Ivoire,0.6369352181415183,1
+2019-10,Bouaké,2,925078,Entreprises locales,Côte d’Ivoire,0.6369352181415183,1
+2019-10,Yamoussoukro,2,824729,Particuliers locaux,Côte d’Ivoire,0.6369352181415183,1
+2019-10,Yamoussoukro,2,925078,Entreprises locales,Côte d’Ivoire,0.6369352181415183,1
+2019-10,San Pedro,2,824729,Particuliers locaux,Côte d’Ivoire,0.6369352181415183,1
+2019-10,San Pedro,2,925078,Entreprises locales,Côte d’Ivoire,0.6369352181415183,1
+2019-11,Abidjan,4,1313061,Particuliers locaux,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Abidjan,4,1684932,Entreprises locales,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Abidjan,4,1999843,Fondation Orange,France,0.6224575737947062,1
+2019-11,Bouaké,2,656530,Particuliers locaux,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Bouaké,2,842466,Entreprises locales,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Bouaké,2,999921,Fondation Orange,France,0.6224575737947062,1
+2019-11,Yamoussoukro,2,656530,Particuliers locaux,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Yamoussoukro,2,842466,Entreprises locales,Côte d’Ivoire,0.6224575737947062,1
+2019-11,Yamoussoukro,2,999921,Fondation Orange,France,0.6224575737947062,1
+2019-11,San Pedro,3,984796,Particuliers locaux,Côte d’Ivoire,0.6224575737947062,1
+2019-11,San Pedro,3,1263699,Entreprises locales,Côte d’Ivoire,0.6224575737947062,1
+2019-11,San Pedro,3,1499882,Fondation Orange,France,0.6224575737947062,1
+2019-12,Abidjan,7,2361964,Particuliers locaux,Côte d’Ivoire,0.6476989323297274,1
+2019-12,Abidjan,7,2845198,Entreprises locales,Côte d’Ivoire,0.6476989323297274,1
+2019-12,Bouaké,1,337423,Particuliers locaux,Côte d’Ivoire,0.6476989323297274,1
+2019-12,Bouaké,1,406456,Entreprises locales,Côte d’Ivoire,0.6476989323297274,1
+2019-12,Yamoussoukro,4,1349693,Particuliers locaux,Côte d’Ivoire,0.6476989323297274,1
+2019-12,Yamoussoukro,4,1625827,Entreprises locales,Côte d’Ivoire,0.6476989323297274,1
+2019-12,San Pedro,1,337423,Particuliers locaux,Côte d’Ivoire,0.6476989323297274,1
+2019-12,San Pedro,1,406456,Entreprises locales,Côte d’Ivoire,0.6476989323297274,1
+2020-01,Abidjan,1,374246,Particuliers locaux,Côte d’Ivoire,0.6313789048288462,1
+2020-01,Abidjan,1,440534,Entreprises locales,Côte d’Ivoire,0.6313789048288462,1
+2020-01,Bouaké,1,374246,Particuliers locaux,Côte d’Ivoire,0.6313789048288462,1
+2020-01,Bouaké,1,440534,Entreprises locales,Côte d’Ivoire,0.6313789048288462,1
+2020-01,Yamoussoukro,4,1496986,Particuliers locaux,Côte d’Ivoire,0.6313789048288462,1
+2020-01,Yamoussoukro,4,1762139,Entreprises locales,Côte d’Ivoire,0.6313789048288462,1
+2020-01,San Pedro,4,1496986,Particuliers locaux,Côte d’Ivoire,0.6313789048288462,1
+2020-01,San Pedro,4,1762139,Entreprises locales,Côte d’Ivoire,0.6313789048288462,1
+2020-02,Abidjan,3,1198571,Particuliers locaux,Côte d’Ivoire,0.6577862831585456,1
+2020-02,Abidjan,3,1323364,Entreprises locales,Côte d’Ivoire,0.6577862831585456,1
+2020-02,Bouaké,3,1198571,Particuliers locaux,Côte d’Ivoire,0.6577862831585456,1
+2020-02,Bouaké,3,1323364,Entreprises locales,Côte d’Ivoire,0.6577862831585456,1
+2020-02,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.6577862831585456,1
+2020-02,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.6577862831585456,1
+2020-02,San Pedro,3,1198571,Particuliers locaux,Côte d’Ivoire,0.6577862831585456,1
+2020-02,San Pedro,3,1323364,Entreprises locales,Côte d’Ivoire,0.6577862831585456,1
+2020-03,Abidjan,6,2315413,Particuliers locaux,Côte d’Ivoire,0.6430879082508533,1
+2020-03,Abidjan,6,2688160,Entreprises locales,Côte d’Ivoire,0.6430879082508533,1
+2020-03,Bouaké,2,771804,Particuliers locaux,Côte d’Ivoire,0.6430879082508533,1
+2020-03,Bouaké,2,896053,Entreprises locales,Côte d’Ivoire,0.6430879082508533,1
+2020-03,Yamoussoukro,2,771804,Particuliers locaux,Côte d’Ivoire,0.6430879082508533,1
+2020-03,Yamoussoukro,2,896053,Entreprises locales,Côte d’Ivoire,0.6430879082508533,1
+2020-03,San Pedro,1,385902,Particuliers locaux,Côte d’Ivoire,0.6430879082508533,1
+2020-03,San Pedro,1,448026,Entreprises locales,Côte d’Ivoire,0.6430879082508533,1
+2020-04,Abidjan,5,2076017,Particuliers locaux,Côte d’Ivoire,0.6769899166073615,1
+2020-04,Abidjan,5,2140980,Entreprises locales,Côte d’Ivoire,0.6769899166073615,1
+2020-04,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6769899166073615,1
+2020-04,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6769899166073615,1
+2020-04,Yamoussoukro,2,830406,Particuliers locaux,Côte d’Ivoire,0.6769899166073615,1
+2020-04,Yamoussoukro,2,856392,Entreprises locales,Côte d’Ivoire,0.6769899166073615,1
+2020-04,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.6769899166073615,1
+2020-04,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.6769899166073615,1
+2020-05,Abidjan,3,1232510,Particuliers locaux,Côte d’Ivoire,0.6486723084404474,1
+2020-05,Abidjan,3,1246614,Entreprises locales,Côte d’Ivoire,0.6486723084404474,1
+2020-05,Bouaké,3,1232510,Particuliers locaux,Côte d’Ivoire,0.6486723084404474,1
+2020-05,Bouaké,3,1246614,Entreprises locales,Côte d’Ivoire,0.6486723084404474,1
+2020-05,Yamoussoukro,1,410836,Particuliers locaux,Côte d’Ivoire,0.6486723084404474,1
+2020-05,Yamoussoukro,1,415538,Entreprises locales,Côte d’Ivoire,0.6486723084404474,1
+2020-05,San Pedro,1,410836,Particuliers locaux,Côte d’Ivoire,0.6486723084404474,1
+2020-05,San Pedro,1,415538,Entreprises locales,Côte d’Ivoire,0.6486723084404474,1
+2020-06,Abidjan,3,1297686,Particuliers locaux,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Abidjan,3,1330565,Entreprises locales,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Abidjan,3,1925127,Ambassade du Canada,Canada,0.6830714448424847,1
+2020-06,Bouaké,2,865124,Particuliers locaux,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Bouaké,2,887043,Entreprises locales,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Bouaké,2,1283418,Ambassade du Canada,Canada,0.6830714448424847,1
+2020-06,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.6830714448424847,1
+2020-06,Yamoussoukro,0,0,Ambassade du Canada,Canada,0.6830714448424847,1
+2020-06,San Pedro,2,865124,Particuliers locaux,Côte d’Ivoire,0.6830714448424847,1
+2020-06,San Pedro,2,887043,Entreprises locales,Côte d’Ivoire,0.6830714448424847,1
+2020-06,San Pedro,2,1283418,Ambassade du Canada,Canada,0.6830714448424847,1
+2020-07,Abidjan,3,1023034,Particuliers locaux,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Abidjan,3,1193881,Entreprises locales,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Abidjan,3,2485761,USAID,États-Unis,0.6449703034262283,1
+2020-07,Bouaké,1,341011,Particuliers locaux,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Bouaké,1,397960,Entreprises locales,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Bouaké,1,828587,USAID,États-Unis,0.6449703034262283,1
+2020-07,Yamoussoukro,3,1023034,Particuliers locaux,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Yamoussoukro,3,1193881,Entreprises locales,Côte d’Ivoire,0.6449703034262283,1
+2020-07,Yamoussoukro,3,2485761,USAID,États-Unis,0.6449703034262283,1
+2020-07,San Pedro,1,341011,Particuliers locaux,Côte d’Ivoire,0.6449703034262283,1
+2020-07,San Pedro,1,397960,Entreprises locales,Côte d’Ivoire,0.6449703034262283,1
+2020-07,San Pedro,1,828587,USAID,États-Unis,0.6449703034262283,1
+2020-08,Abidjan,2,803936,Particuliers locaux,Côte d’Ivoire,0.6743915797810074,1
+2020-08,Abidjan,2,1013941,Entreprises locales,Côte d’Ivoire,0.6743915797810074,1
+2020-08,Bouaké,4,1607873,Particuliers locaux,Côte d’Ivoire,0.6743915797810074,1
+2020-08,Bouaké,4,2027883,Entreprises locales,Côte d’Ivoire,0.6743915797810074,1
+2020-08,Yamoussoukro,1,401968,Particuliers locaux,Côte d’Ivoire,0.6743915797810074,1
+2020-08,Yamoussoukro,1,506970,Entreprises locales,Côte d’Ivoire,0.6743915797810074,1
+2020-08,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.6743915797810074,1
+2020-08,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.6743915797810074,1
+2020-09,Abidjan,4,1367005,Particuliers locaux,Côte d’Ivoire,0.648308872035412,1
+2020-09,Abidjan,4,1728532,Entreprises locales,Côte d’Ivoire,0.648308872035412,1
+2020-09,Bouaké,1,341751,Particuliers locaux,Côte d’Ivoire,0.648308872035412,1
+2020-09,Bouaké,1,432133,Entreprises locales,Côte d’Ivoire,0.648308872035412,1
+2020-09,Yamoussoukro,2,683502,Particuliers locaux,Côte d’Ivoire,0.648308872035412,1
+2020-09,Yamoussoukro,2,864266,Entreprises locales,Côte d’Ivoire,0.648308872035412,1
+2020-09,San Pedro,1,341751,Particuliers locaux,Côte d’Ivoire,0.648308872035412,1
+2020-09,San Pedro,1,432133,Entreprises locales,Côte d’Ivoire,0.648308872035412,1
+2020-10,Abidjan,5,1948476,Particuliers locaux,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Abidjan,5,2115714,Entreprises locales,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Abidjan,5,3504578,Ambassade du Canada,Canada,0.6874949963349456,1
+2020-10,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Bouaké,0,0,Ambassade du Canada,Canada,0.6874949963349456,1
+2020-10,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.6874949963349456,1
+2020-10,Yamoussoukro,0,0,Ambassade du Canada,Canada,0.6874949963349456,1
+2020-10,San Pedro,3,1169086,Particuliers locaux,Côte d’Ivoire,0.6874949963349456,1
+2020-10,San Pedro,3,1269428,Entreprises locales,Côte d’Ivoire,0.6874949963349456,1
+2020-10,San Pedro,3,2102746,Ambassade du Canada,Canada,0.6874949963349456,1
+2020-11,Abidjan,2,691842,Particuliers locaux,Côte d’Ivoire,0.6759877166062075,0
+2020-11,Abidjan,2,742124,Entreprises locales,Côte d’Ivoire,0.6759877166062075,0
+2020-11,Bouaké,4,1383684,Particuliers locaux,Côte d’Ivoire,0.6759877166062075,0
+2020-11,Bouaké,4,1484248,Entreprises locales,Côte d’Ivoire,0.6759877166062075,0
+2020-11,Yamoussoukro,1,345921,Particuliers locaux,Côte d’Ivoire,0.6759877166062075,0
+2020-11,Yamoussoukro,1,371062,Entreprises locales,Côte d’Ivoire,0.6759877166062075,0
+2020-11,San Pedro,2,691842,Particuliers locaux,Côte d’Ivoire,0.6759877166062075,0
+2020-11,San Pedro,2,742124,Entreprises locales,Côte d’Ivoire,0.6759877166062075,0
+2020-12,Abidjan,5,2098223,Particuliers locaux,Côte d’Ivoire,0.6923042184715802,1
+2020-12,Abidjan,5,2112813,Entreprises locales,Côte d’Ivoire,0.6923042184715802,1
+2020-12,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6923042184715802,1
+2020-12,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6923042184715802,1
+2020-12,Yamoussoukro,3,1258934,Particuliers locaux,Côte d’Ivoire,0.6923042184715802,1
+2020-12,Yamoussoukro,3,1267688,Entreprises locales,Côte d’Ivoire,0.6923042184715802,1
+2020-12,San Pedro,1,419644,Particuliers locaux,Côte d’Ivoire,0.6923042184715802,1
+2020-12,San Pedro,1,422562,Entreprises locales,Côte d’Ivoire,0.6923042184715802,1
+2021-01,Abidjan,5,2017683,Particuliers locaux,Côte d’Ivoire,0.6740101401886822,1
+2021-01,Abidjan,5,2157774,Entreprises locales,Côte d’Ivoire,0.6740101401886822,1
+2021-01,Bouaké,1,403536,Particuliers locaux,Côte d’Ivoire,0.6740101401886822,1
+2021-01,Bouaké,1,431554,Entreprises locales,Côte d’Ivoire,0.6740101401886822,1
+2021-01,Yamoussoukro,2,807073,Particuliers locaux,Côte d’Ivoire,0.6740101401886822,1
+2021-01,Yamoussoukro,2,863109,Entreprises locales,Côte d’Ivoire,0.6740101401886822,1
+2021-01,San Pedro,2,807073,Particuliers locaux,Côte d’Ivoire,0.6740101401886822,1
+2021-01,San Pedro,2,863109,Entreprises locales,Côte d’Ivoire,0.6740101401886822,1
+2021-02,Abidjan,7,2131314,Particuliers locaux,Côte d’Ivoire,0.6886757690035877,1
+2021-02,Abidjan,7,2097580,Entreprises locales,Côte d’Ivoire,0.6886757690035877,1
+2021-02,Bouaké,1,304473,Particuliers locaux,Côte d’Ivoire,0.6886757690035877,1
+2021-02,Bouaké,1,299654,Entreprises locales,Côte d’Ivoire,0.6886757690035877,1
+2021-02,Yamoussoukro,3,913420,Particuliers locaux,Côte d’Ivoire,0.6886757690035877,1
+2021-02,Yamoussoukro,3,898963,Entreprises locales,Côte d’Ivoire,0.6886757690035877,1
+2021-02,San Pedro,2,608946,Particuliers locaux,Côte d’Ivoire,0.6886757690035877,1
+2021-02,San Pedro,2,599308,Entreprises locales,Côte d’Ivoire,0.6886757690035877,1
+2021-03,Abidjan,3,1741446,Particuliers locaux,Côte d’Ivoire,0.6803638429376376,1
+2021-03,Abidjan,3,1761331,Entreprises locales,Côte d’Ivoire,0.6803638429376376,1
+2021-03,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.6803638429376376,1
+2021-03,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.6803638429376376,1
+2021-03,Yamoussoukro,1,580482,Particuliers locaux,Côte d’Ivoire,0.6803638429376376,1
+2021-03,Yamoussoukro,1,587110,Entreprises locales,Côte d’Ivoire,0.6803638429376376,1
+2021-03,San Pedro,1,580482,Particuliers locaux,Côte d’Ivoire,0.6803638429376376,1
+2021-03,San Pedro,1,587110,Entreprises locales,Côte d’Ivoire,0.6803638429376376,1
+2021-04,Abidjan,4,1532660,Particuliers locaux,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Abidjan,4,1710342,Entreprises locales,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Abidjan,4,1985484,Fondation Orange,France,0.6810796345238945,1
+2021-04,Abidjan,4,2032529,USAID,États-Unis,0.6810796345238945,1
+2021-04,Bouaké,4,1532660,Particuliers locaux,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Bouaké,4,1710342,Entreprises locales,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Bouaké,4,1985484,Fondation Orange,France,0.6810796345238945,1
+2021-04,Bouaké,4,2032529,USAID,États-Unis,0.6810796345238945,1
+2021-04,Yamoussoukro,2,766330,Particuliers locaux,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Yamoussoukro,2,855171,Entreprises locales,Côte d’Ivoire,0.6810796345238945,1
+2021-04,Yamoussoukro,2,992742,Fondation Orange,France,0.6810796345238945,1
+2021-04,Yamoussoukro,2,1016264,USAID,États-Unis,0.6810796345238945,1
+2021-04,San Pedro,2,766330,Particuliers locaux,Côte d’Ivoire,0.6810796345238945,1
+2021-04,San Pedro,2,855171,Entreprises locales,Côte d’Ivoire,0.6810796345238945,1
+2021-04,San Pedro,2,992742,Fondation Orange,France,0.6810796345238945,1
+2021-04,San Pedro,2,1016264,USAID,États-Unis,0.6810796345238945,1
+2021-05,Abidjan,2,902186,Particuliers locaux,Côte d’Ivoire,0.6751982341109771,1
+2021-05,Abidjan,2,1027360,Entreprises locales,Côte d’Ivoire,0.6751982341109771,1
+2021-05,Bouaké,4,1804373,Particuliers locaux,Côte d’Ivoire,0.6751982341109771,1
+2021-05,Bouaké,4,2054720,Entreprises locales,Côte d’Ivoire,0.6751982341109771,1
+2021-05,Yamoussoukro,1,451093,Particuliers locaux,Côte d’Ivoire,0.6751982341109771,1
+2021-05,Yamoussoukro,1,513680,Entreprises locales,Côte d’Ivoire,0.6751982341109771,1
+2021-05,San Pedro,1,451093,Particuliers locaux,Côte d’Ivoire,0.6751982341109771,1
+2021-05,San Pedro,1,513680,Entreprises locales,Côte d’Ivoire,0.6751982341109771,1
+2021-06,Abidjan,3,1210742,Particuliers locaux,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Abidjan,3,1240531,Entreprises locales,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Abidjan,3,2588374,Fondation Orange,France,0.6734901129771826,1
+2021-06,Bouaké,1,403580,Particuliers locaux,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Bouaké,1,413510,Entreprises locales,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Bouaké,1,862791,Fondation Orange,France,0.6734901129771826,1
+2021-06,Yamoussoukro,1,403580,Particuliers locaux,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Yamoussoukro,1,413510,Entreprises locales,Côte d’Ivoire,0.6734901129771826,1
+2021-06,Yamoussoukro,1,862791,Fondation Orange,France,0.6734901129771826,1
+2021-06,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.6734901129771826,1
+2021-06,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.6734901129771826,1
+2021-06,San Pedro,0,0,Fondation Orange,France,0.6734901129771826,1
+2021-07,Abidjan,4,1841327,Particuliers locaux,Côte d’Ivoire,0.6881329668493943,1
+2021-07,Abidjan,4,2085464,Entreprises locales,Côte d’Ivoire,0.6881329668493943,1
+2021-07,Bouaké,2,920663,Particuliers locaux,Côte d’Ivoire,0.6881329668493943,1
+2021-07,Bouaké,2,1042732,Entreprises locales,Côte d’Ivoire,0.6881329668493943,1
+2021-07,Yamoussoukro,1,460331,Particuliers locaux,Côte d’Ivoire,0.6881329668493943,1
+2021-07,Yamoussoukro,1,521366,Entreprises locales,Côte d’Ivoire,0.6881329668493943,1
+2021-07,San Pedro,1,460331,Particuliers locaux,Côte d’Ivoire,0.6881329668493943,1
+2021-07,San Pedro,1,521366,Entreprises locales,Côte d’Ivoire,0.6881329668493943,1
+2021-08,Abidjan,4,1662510,Particuliers locaux,Côte d’Ivoire,0.7070931542976059,1
+2021-08,Abidjan,4,1554637,Entreprises locales,Côte d’Ivoire,0.7070931542976059,1
+2021-08,Bouaké,3,1246883,Particuliers locaux,Côte d’Ivoire,0.7070931542976059,1
+2021-08,Bouaké,3,1165978,Entreprises locales,Côte d’Ivoire,0.7070931542976059,1
+2021-08,Yamoussoukro,2,831255,Particuliers locaux,Côte d’Ivoire,0.7070931542976059,1
+2021-08,Yamoussoukro,2,777318,Entreprises locales,Côte d’Ivoire,0.7070931542976059,1
+2021-08,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7070931542976059,1
+2021-08,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7070931542976059,1
+2021-09,Abidjan,5,1566962,Particuliers locaux,Côte d’Ivoire,0.7104050294694193,1
+2021-09,Abidjan,5,1615633,Entreprises locales,Côte d’Ivoire,0.7104050294694193,1
+2021-09,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.7104050294694193,1
+2021-09,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.7104050294694193,1
+2021-09,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7104050294694193,1
+2021-09,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7104050294694193,1
+2021-09,San Pedro,7,2193746,Particuliers locaux,Côte d’Ivoire,0.7104050294694193,1
+2021-09,San Pedro,7,2261887,Entreprises locales,Côte d’Ivoire,0.7104050294694193,1
+2021-10,Abidjan,3,1332267,Particuliers locaux,Côte d’Ivoire,0.6973095463146254,1
+2021-10,Abidjan,3,1283658,Entreprises locales,Côte d’Ivoire,0.6973095463146254,1
+2021-10,Bouaké,1,444089,Particuliers locaux,Côte d’Ivoire,0.6973095463146254,1
+2021-10,Bouaké,1,427886,Entreprises locales,Côte d’Ivoire,0.6973095463146254,1
+2021-10,Yamoussoukro,1,444089,Particuliers locaux,Côte d’Ivoire,0.6973095463146254,1
+2021-10,Yamoussoukro,1,427886,Entreprises locales,Côte d’Ivoire,0.6973095463146254,1
+2021-10,San Pedro,1,444089,Particuliers locaux,Côte d’Ivoire,0.6973095463146254,1
+2021-10,San Pedro,1,427886,Entreprises locales,Côte d’Ivoire,0.6973095463146254,1
+2021-11,Abidjan,6,2207968,Particuliers locaux,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Abidjan,6,2836220,Entreprises locales,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Abidjan,6,3668120,USAID,États-Unis,0.6938237981975723,1
+2021-11,Bouaké,2,735989,Particuliers locaux,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Bouaké,2,945406,Entreprises locales,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Bouaké,2,1222706,USAID,États-Unis,0.6938237981975723,1
+2021-11,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.6938237981975723,1
+2021-11,Yamoussoukro,0,0,USAID,États-Unis,0.6938237981975723,1
+2021-11,San Pedro,1,367994,Particuliers locaux,Côte d’Ivoire,0.6938237981975723,1
+2021-11,San Pedro,1,472703,Entreprises locales,Côte d’Ivoire,0.6938237981975723,1
+2021-11,San Pedro,1,611353,USAID,États-Unis,0.6938237981975723,1
+2021-12,Abidjan,1,406841,Particuliers locaux,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Abidjan,1,392102,Entreprises locales,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Abidjan,1,491871,Ambassade du Canada,Canada,0.6974237390311436,1
+2021-12,Bouaké,2,813683,Particuliers locaux,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Bouaké,2,784204,Entreprises locales,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Bouaké,2,983742,Ambassade du Canada,Canada,0.6974237390311436,1
+2021-12,Yamoussoukro,3,1220525,Particuliers locaux,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Yamoussoukro,3,1176306,Entreprises locales,Côte d’Ivoire,0.6974237390311436,1
+2021-12,Yamoussoukro,3,1475613,Ambassade du Canada,Canada,0.6974237390311436,1
+2021-12,San Pedro,3,1220525,Particuliers locaux,Côte d’Ivoire,0.6974237390311436,1
+2021-12,San Pedro,3,1176306,Entreprises locales,Côte d’Ivoire,0.6974237390311436,1
+2021-12,San Pedro,3,1475613,Ambassade du Canada,Canada,0.6974237390311436,1
+2022-01,Abidjan,1,447031,Particuliers locaux,Côte d’Ivoire,0.6951872568996795,1
+2022-01,Abidjan,1,610578,Entreprises locales,Côte d’Ivoire,0.6951872568996795,1
+2022-01,Bouaké,1,447031,Particuliers locaux,Côte d’Ivoire,0.6951872568996795,1
+2022-01,Bouaké,1,610578,Entreprises locales,Côte d’Ivoire,0.6951872568996795,1
+2022-01,Yamoussoukro,1,447031,Particuliers locaux,Côte d’Ivoire,0.6951872568996795,1
+2022-01,Yamoussoukro,1,610578,Entreprises locales,Côte d’Ivoire,0.6951872568996795,1
+2022-01,San Pedro,1,447031,Particuliers locaux,Côte d’Ivoire,0.6951872568996795,1
+2022-01,San Pedro,1,610578,Entreprises locales,Côte d’Ivoire,0.6951872568996795,1
+2022-02,Abidjan,1,435221,Particuliers locaux,Côte d’Ivoire,0.7206254299000863,1
+2022-02,Abidjan,1,555556,Entreprises locales,Côte d’Ivoire,0.7206254299000863,1
+2022-02,Bouaké,2,870442,Particuliers locaux,Côte d’Ivoire,0.7206254299000863,1
+2022-02,Bouaké,2,1111113,Entreprises locales,Côte d’Ivoire,0.7206254299000863,1
+2022-02,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7206254299000863,1
+2022-02,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7206254299000863,1
+2022-02,San Pedro,2,870442,Particuliers locaux,Côte d’Ivoire,0.7206254299000863,1
+2022-02,San Pedro,2,1111113,Entreprises locales,Côte d’Ivoire,0.7206254299000863,1
+2022-03,Abidjan,2,726319,Particuliers locaux,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Abidjan,2,760094,Entreprises locales,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Abidjan,2,1462392,Fondation Orange,France,0.7293049097530003,1
+2022-03,Abidjan,2,1128221,Ambassade du Canada,Canada,0.7293049097530003,1
+2022-03,Bouaké,3,1089479,Particuliers locaux,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Bouaké,3,1140141,Entreprises locales,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Bouaké,3,2193588,Fondation Orange,France,0.7293049097530003,1
+2022-03,Bouaké,3,1692331,Ambassade du Canada,Canada,0.7293049097530003,1
+2022-03,Yamoussoukro,4,1452638,Particuliers locaux,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Yamoussoukro,4,1520188,Entreprises locales,Côte d’Ivoire,0.7293049097530003,1
+2022-03,Yamoussoukro,4,2924784,Fondation Orange,France,0.7293049097530003,1
+2022-03,Yamoussoukro,4,2256442,Ambassade du Canada,Canada,0.7293049097530003,1
+2022-03,San Pedro,1,363159,Particuliers locaux,Côte d’Ivoire,0.7293049097530003,1
+2022-03,San Pedro,1,380047,Entreprises locales,Côte d’Ivoire,0.7293049097530003,1
+2022-03,San Pedro,1,731196,Fondation Orange,France,0.7293049097530003,1
+2022-03,San Pedro,1,564110,Ambassade du Canada,Canada,0.7293049097530003,1
+2022-04,Abidjan,7,2514140,Particuliers locaux,Côte d’Ivoire,0.7308125338333517,1
+2022-04,Abidjan,7,3000026,Entreprises locales,Côte d’Ivoire,0.7308125338333517,1
+2022-04,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.7308125338333517,1
+2022-04,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.7308125338333517,1
+2022-04,Yamoussoukro,4,1436651,Particuliers locaux,Côte d’Ivoire,0.7308125338333517,1
+2022-04,Yamoussoukro,4,1714301,Entreprises locales,Côte d’Ivoire,0.7308125338333517,1
+2022-04,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7308125338333517,1
+2022-04,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7308125338333517,1
+2022-05,Abidjan,5,1532440,Particuliers locaux,Côte d’Ivoire,0.7275603989206344,1
+2022-05,Abidjan,5,1922847,Entreprises locales,Côte d’Ivoire,0.7275603989206344,1
+2022-05,Bouaké,4,1225952,Particuliers locaux,Côte d’Ivoire,0.7275603989206344,1
+2022-05,Bouaké,4,1538278,Entreprises locales,Côte d’Ivoire,0.7275603989206344,1
+2022-05,Yamoussoukro,2,612976,Particuliers locaux,Côte d’Ivoire,0.7275603989206344,1
+2022-05,Yamoussoukro,2,769139,Entreprises locales,Côte d’Ivoire,0.7275603989206344,1
+2022-05,San Pedro,1,306488,Particuliers locaux,Côte d’Ivoire,0.7275603989206344,1
+2022-05,San Pedro,1,384569,Entreprises locales,Côte d’Ivoire,0.7275603989206344,1
+2022-06,Abidjan,6,2179822,Particuliers locaux,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Abidjan,6,2275556,Entreprises locales,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Abidjan,6,4648124,Fondation Orange,France,0.7144060776442059,1
+2022-06,Abidjan,6,3741666,Ambassade du Canada,Canada,0.7144060776442059,1
+2022-06,Bouaké,1,363303,Particuliers locaux,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Bouaké,1,379259,Entreprises locales,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Bouaké,1,774687,Fondation Orange,France,0.7144060776442059,1
+2022-06,Bouaké,1,623611,Ambassade du Canada,Canada,0.7144060776442059,1
+2022-06,Yamoussoukro,1,363303,Particuliers locaux,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Yamoussoukro,1,379259,Entreprises locales,Côte d’Ivoire,0.7144060776442059,1
+2022-06,Yamoussoukro,1,774687,Fondation Orange,France,0.7144060776442059,1
+2022-06,Yamoussoukro,1,623611,Ambassade du Canada,Canada,0.7144060776442059,1
+2022-06,San Pedro,2,726607,Particuliers locaux,Côte d’Ivoire,0.7144060776442059,1
+2022-06,San Pedro,2,758518,Entreprises locales,Côte d’Ivoire,0.7144060776442059,1
+2022-06,San Pedro,2,1549374,Fondation Orange,France,0.7144060776442059,1
+2022-06,San Pedro,2,1247222,Ambassade du Canada,Canada,0.7144060776442059,1
+2022-07,Abidjan,4,1473020,Particuliers locaux,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Abidjan,4,1509895,Entreprises locales,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Abidjan,4,2669082,Fondation Orange,France,0.7030020266951702,0
+2022-07,Bouaké,3,1104765,Particuliers locaux,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Bouaké,3,1132421,Entreprises locales,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Bouaké,3,2001811,Fondation Orange,France,0.7030020266951702,0
+2022-07,Yamoussoukro,3,1104765,Particuliers locaux,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Yamoussoukro,3,1132421,Entreprises locales,Côte d’Ivoire,0.7030020266951702,0
+2022-07,Yamoussoukro,3,2001811,Fondation Orange,France,0.7030020266951702,0
+2022-07,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7030020266951702,0
+2022-07,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7030020266951702,0
+2022-07,San Pedro,0,0,Fondation Orange,France,0.7030020266951702,0
+2022-08,Abidjan,3,1077518,Particuliers locaux,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Abidjan,3,1030890,Entreprises locales,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Abidjan,3,1811926,USAID,États-Unis,0.7169313923198617,1
+2022-08,Bouaké,2,718345,Particuliers locaux,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Bouaké,2,687260,Entreprises locales,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Bouaké,2,1207950,USAID,États-Unis,0.7169313923198617,1
+2022-08,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7169313923198617,1
+2022-08,Yamoussoukro,0,0,USAID,États-Unis,0.7169313923198617,1
+2022-08,San Pedro,4,1436691,Particuliers locaux,Côte d’Ivoire,0.7169313923198617,1
+2022-08,San Pedro,4,1374520,Entreprises locales,Côte d’Ivoire,0.7169313923198617,1
+2022-08,San Pedro,4,2415901,USAID,États-Unis,0.7169313923198617,1
+2022-09,Abidjan,4,1206512,Particuliers locaux,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Abidjan,4,1302178,Entreprises locales,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Abidjan,4,2211458,Fondation Orange,France,0.7129593709148057,1
+2022-09,Bouaké,4,1206512,Particuliers locaux,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Bouaké,4,1302178,Entreprises locales,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Bouaké,4,2211458,Fondation Orange,France,0.7129593709148057,1
+2022-09,Yamoussoukro,1,301628,Particuliers locaux,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Yamoussoukro,1,325544,Entreprises locales,Côte d’Ivoire,0.7129593709148057,1
+2022-09,Yamoussoukro,1,552864,Fondation Orange,France,0.7129593709148057,1
+2022-09,San Pedro,3,904884,Particuliers locaux,Côte d’Ivoire,0.7129593709148057,1
+2022-09,San Pedro,3,976634,Entreprises locales,Côte d’Ivoire,0.7129593709148057,1
+2022-09,San Pedro,3,1658593,Fondation Orange,France,0.7129593709148057,1
+2022-10,Abidjan,1,398483,Particuliers locaux,Côte d’Ivoire,0.7191949127734113,1
+2022-10,Abidjan,1,488032,Entreprises locales,Côte d’Ivoire,0.7191949127734113,1
+2022-10,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.7191949127734113,1
+2022-10,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.7191949127734113,1
+2022-10,Yamoussoukro,2,796966,Particuliers locaux,Côte d’Ivoire,0.7191949127734113,1
+2022-10,Yamoussoukro,2,976064,Entreprises locales,Côte d’Ivoire,0.7191949127734113,1
+2022-10,San Pedro,3,1195450,Particuliers locaux,Côte d’Ivoire,0.7191949127734113,1
+2022-10,San Pedro,3,1464096,Entreprises locales,Côte d’Ivoire,0.7191949127734113,1
+2022-11,Abidjan,3,1174963,Particuliers locaux,Côte d’Ivoire,0.7276826385675819,1
+2022-11,Abidjan,3,1277418,Entreprises locales,Côte d’Ivoire,0.7276826385675819,1
+2022-11,Bouaké,3,1174963,Particuliers locaux,Côte d’Ivoire,0.7276826385675819,1
+2022-11,Bouaké,3,1277418,Entreprises locales,Côte d’Ivoire,0.7276826385675819,1
+2022-11,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7276826385675819,1
+2022-11,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7276826385675819,1
+2022-11,San Pedro,2,783309,Particuliers locaux,Côte d’Ivoire,0.7276826385675819,1
+2022-11,San Pedro,2,851612,Entreprises locales,Côte d’Ivoire,0.7276826385675819,1
+2022-12,Abidjan,8,3089200,Particuliers locaux,Côte d’Ivoire,0.7358543704864172,0
+2022-12,Abidjan,8,3224789,Entreprises locales,Côte d’Ivoire,0.7358543704864172,0
+2022-12,Bouaké,1,386150,Particuliers locaux,Côte d’Ivoire,0.7358543704864172,0
+2022-12,Bouaké,1,403098,Entreprises locales,Côte d’Ivoire,0.7358543704864172,0
+2022-12,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7358543704864172,0
+2022-12,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7358543704864172,0
+2022-12,San Pedro,1,386150,Particuliers locaux,Côte d’Ivoire,0.7358543704864172,0
+2022-12,San Pedro,1,403098,Entreprises locales,Côte d’Ivoire,0.7358543704864172,0
+2023-01,Abidjan,1,505037,Particuliers locaux,Côte d’Ivoire,0.7115487613087583,1
+2023-01,Abidjan,1,523307,Entreprises locales,Côte d’Ivoire,0.7115487613087583,1
+2023-01,Bouaké,1,505037,Particuliers locaux,Côte d’Ivoire,0.7115487613087583,1
+2023-01,Bouaké,1,523307,Entreprises locales,Côte d’Ivoire,0.7115487613087583,1
+2023-01,Yamoussoukro,2,1010075,Particuliers locaux,Côte d’Ivoire,0.7115487613087583,1
+2023-01,Yamoussoukro,2,1046614,Entreprises locales,Côte d’Ivoire,0.7115487613087583,1
+2023-01,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7115487613087583,1
+2023-01,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7115487613087583,1
+2023-02,Abidjan,4,1440296,Particuliers locaux,Côte d’Ivoire,0.7444733289144169,1
+2023-02,Abidjan,4,1595610,Entreprises locales,Côte d’Ivoire,0.7444733289144169,1
+2023-02,Bouaké,3,1080222,Particuliers locaux,Côte d’Ivoire,0.7444733289144169,1
+2023-02,Bouaké,3,1196708,Entreprises locales,Côte d’Ivoire,0.7444733289144169,1
+2023-02,Yamoussoukro,2,720148,Particuliers locaux,Côte d’Ivoire,0.7444733289144169,1
+2023-02,Yamoussoukro,2,797805,Entreprises locales,Côte d’Ivoire,0.7444733289144169,1
+2023-02,San Pedro,3,1080222,Particuliers locaux,Côte d’Ivoire,0.7444733289144169,1
+2023-02,San Pedro,3,1196708,Entreprises locales,Côte d’Ivoire,0.7444733289144169,1
+2023-03,Abidjan,2,857602,Particuliers locaux,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Abidjan,2,875081,Entreprises locales,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Abidjan,2,4644238,UNESCO,International,0.7492605045325355,1
+2023-03,Bouaké,2,857602,Particuliers locaux,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Bouaké,2,875081,Entreprises locales,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Bouaké,2,4644238,UNESCO,International,0.7492605045325355,1
+2023-03,Yamoussoukro,1,428801,Particuliers locaux,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Yamoussoukro,1,437540,Entreprises locales,Côte d’Ivoire,0.7492605045325355,1
+2023-03,Yamoussoukro,1,2322119,UNESCO,International,0.7492605045325355,1
+2023-03,San Pedro,2,857602,Particuliers locaux,Côte d’Ivoire,0.7492605045325355,1
+2023-03,San Pedro,2,875081,Entreprises locales,Côte d’Ivoire,0.7492605045325355,1
+2023-03,San Pedro,2,4644238,UNESCO,International,0.7492605045325355,1
+2023-04,Abidjan,2,705885,Particuliers locaux,Côte d’Ivoire,0.71788899539359,1
+2023-04,Abidjan,2,751403,Entreprises locales,Côte d’Ivoire,0.71788899539359,1
+2023-04,Bouaké,1,352942,Particuliers locaux,Côte d’Ivoire,0.71788899539359,1
+2023-04,Bouaké,1,375701,Entreprises locales,Côte d’Ivoire,0.71788899539359,1
+2023-04,Yamoussoukro,3,1058827,Particuliers locaux,Côte d’Ivoire,0.71788899539359,1
+2023-04,Yamoussoukro,3,1127105,Entreprises locales,Côte d’Ivoire,0.71788899539359,1
+2023-04,San Pedro,3,1058827,Particuliers locaux,Côte d’Ivoire,0.71788899539359,1
+2023-04,San Pedro,3,1127105,Entreprises locales,Côte d’Ivoire,0.71788899539359,1
+2023-05,Abidjan,9,3224240,Particuliers locaux,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Abidjan,9,3276478,Entreprises locales,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Abidjan,9,4644733,Fondation Orange,France,0.7346244792831708,1
+2023-05,Bouaké,2,716497,Particuliers locaux,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Bouaké,2,728106,Entreprises locales,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Bouaké,2,1032163,Fondation Orange,France,0.7346244792831708,1
+2023-05,Yamoussoukro,3,1074746,Particuliers locaux,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Yamoussoukro,3,1092159,Entreprises locales,Côte d’Ivoire,0.7346244792831708,1
+2023-05,Yamoussoukro,3,1548244,Fondation Orange,France,0.7346244792831708,1
+2023-05,San Pedro,1,358248,Particuliers locaux,Côte d’Ivoire,0.7346244792831708,1
+2023-05,San Pedro,1,364053,Entreprises locales,Côte d’Ivoire,0.7346244792831708,1
+2023-05,San Pedro,1,516081,Fondation Orange,France,0.7346244792831708,1
+2023-06,Abidjan,4,1554583,Particuliers locaux,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Abidjan,4,1728071,Entreprises locales,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Abidjan,4,2937342,Ambassade du Canada,Canada,0.7615215571210628,1
+2023-06,Abidjan,4,8618166,UNESCO,International,0.7615215571210628,1
+2023-06,Bouaké,2,777291,Particuliers locaux,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Bouaké,2,864035,Entreprises locales,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Bouaké,2,1468671,Ambassade du Canada,Canada,0.7615215571210628,1
+2023-06,Bouaké,2,4309083,UNESCO,International,0.7615215571210628,1
+2023-06,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7615215571210628,1
+2023-06,Yamoussoukro,0,0,Ambassade du Canada,Canada,0.7615215571210628,1
+2023-06,Yamoussoukro,0,0,UNESCO,International,0.7615215571210628,1
+2023-06,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7615215571210628,1
+2023-06,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7615215571210628,1
+2023-06,San Pedro,0,0,Ambassade du Canada,Canada,0.7615215571210628,1
+2023-06,San Pedro,0,0,UNESCO,International,0.7615215571210628,1
+2023-07,Abidjan,4,1397870,Particuliers locaux,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Abidjan,4,1621146,Entreprises locales,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Abidjan,4,2647746,Fondation Orange,France,0.7609934255242662,1
+2023-07,Bouaké,3,1048402,Particuliers locaux,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Bouaké,3,1215860,Entreprises locales,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Bouaké,3,1985809,Fondation Orange,France,0.7609934255242662,1
+2023-07,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7609934255242662,1
+2023-07,Yamoussoukro,0,0,Fondation Orange,France,0.7609934255242662,1
+2023-07,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7609934255242662,1
+2023-07,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7609934255242662,1
+2023-07,San Pedro,0,0,Fondation Orange,France,0.7609934255242662,1
+2023-08,Abidjan,4,1126965,Particuliers locaux,Côte d’Ivoire,0.7462616858163683,1
+2023-08,Abidjan,4,1295288,Entreprises locales,Côte d’Ivoire,0.7462616858163683,1
+2023-08,Bouaké,3,845224,Particuliers locaux,Côte d’Ivoire,0.7462616858163683,1
+2023-08,Bouaké,3,971466,Entreprises locales,Côte d’Ivoire,0.7462616858163683,1
+2023-08,Yamoussoukro,2,563482,Particuliers locaux,Côte d’Ivoire,0.7462616858163683,1
+2023-08,Yamoussoukro,2,647644,Entreprises locales,Côte d’Ivoire,0.7462616858163683,1
+2023-08,San Pedro,4,1126965,Particuliers locaux,Côte d’Ivoire,0.7462616858163683,1
+2023-08,San Pedro,4,1295288,Entreprises locales,Côte d’Ivoire,0.7462616858163683,1
+2023-09,Abidjan,4,1786835,Particuliers locaux,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Abidjan,4,2090712,Entreprises locales,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Abidjan,4,8678326,UNESCO,International,0.7516505311382644,1
+2023-09,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Bouaké,0,0,UNESCO,International,0.7516505311382644,1
+2023-09,Yamoussoukro,1,446708,Particuliers locaux,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Yamoussoukro,1,522678,Entreprises locales,Côte d’Ivoire,0.7516505311382644,1
+2023-09,Yamoussoukro,1,2169581,UNESCO,International,0.7516505311382644,1
+2023-09,San Pedro,1,446708,Particuliers locaux,Côte d’Ivoire,0.7516505311382644,1
+2023-09,San Pedro,1,522678,Entreprises locales,Côte d’Ivoire,0.7516505311382644,1
+2023-09,San Pedro,1,2169581,UNESCO,International,0.7516505311382644,1
+2023-10,Abidjan,2,812484,Particuliers locaux,Côte d’Ivoire,0.7509953104434726,1
+2023-10,Abidjan,2,895126,Entreprises locales,Côte d’Ivoire,0.7509953104434726,1
+2023-10,Bouaké,2,812484,Particuliers locaux,Côte d’Ivoire,0.7509953104434726,1
+2023-10,Bouaké,2,895126,Entreprises locales,Côte d’Ivoire,0.7509953104434726,1
+2023-10,Yamoussoukro,2,812484,Particuliers locaux,Côte d’Ivoire,0.7509953104434726,1
+2023-10,Yamoussoukro,2,895126,Entreprises locales,Côte d’Ivoire,0.7509953104434726,1
+2023-10,San Pedro,2,812484,Particuliers locaux,Côte d’Ivoire,0.7509953104434726,1
+2023-10,San Pedro,2,895126,Entreprises locales,Côte d’Ivoire,0.7509953104434726,1
+2023-11,Abidjan,3,874450,Particuliers locaux,Côte d’Ivoire,0.7570282063617477,1
+2023-11,Abidjan,3,1171398,Entreprises locales,Côte d’Ivoire,0.7570282063617477,1
+2023-11,Bouaké,2,582967,Particuliers locaux,Côte d’Ivoire,0.7570282063617477,1
+2023-11,Bouaké,2,780932,Entreprises locales,Côte d’Ivoire,0.7570282063617477,1
+2023-11,Yamoussoukro,4,1165934,Particuliers locaux,Côte d’Ivoire,0.7570282063617477,1
+2023-11,Yamoussoukro,4,1561864,Entreprises locales,Côte d’Ivoire,0.7570282063617477,1
+2023-11,San Pedro,1,291483,Particuliers locaux,Côte d’Ivoire,0.7570282063617477,1
+2023-11,San Pedro,1,390466,Entreprises locales,Côte d’Ivoire,0.7570282063617477,1
+2023-12,Abidjan,4,1375974,Particuliers locaux,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Abidjan,4,1528000,Entreprises locales,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Abidjan,4,2353376,USAID,États-Unis,0.7484120890805679,1
+2023-12,Abidjan,4,5528497,UNESCO,International,0.7484120890805679,1
+2023-12,Bouaké,4,1375974,Particuliers locaux,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Bouaké,4,1528000,Entreprises locales,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Bouaké,4,2353376,USAID,États-Unis,0.7484120890805679,1
+2023-12,Bouaké,4,5528497,UNESCO,International,0.7484120890805679,1
+2023-12,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7484120890805679,1
+2023-12,Yamoussoukro,0,0,USAID,États-Unis,0.7484120890805679,1
+2023-12,Yamoussoukro,0,0,UNESCO,International,0.7484120890805679,1
+2023-12,San Pedro,2,687987,Particuliers locaux,Côte d’Ivoire,0.7484120890805679,1
+2023-12,San Pedro,2,764000,Entreprises locales,Côte d’Ivoire,0.7484120890805679,1
+2023-12,San Pedro,2,1176688,USAID,États-Unis,0.7484120890805679,1
+2023-12,San Pedro,2,2764248,UNESCO,International,0.7484120890805679,1
+2024-01,Abidjan,3,1276254,Particuliers locaux,Côte d’Ivoire,0.7465401333279378,1
+2024-01,Abidjan,3,1316663,Entreprises locales,Côte d’Ivoire,0.7465401333279378,1
+2024-01,Bouaké,1,425418,Particuliers locaux,Côte d’Ivoire,0.7465401333279378,1
+2024-01,Bouaké,1,438887,Entreprises locales,Côte d’Ivoire,0.7465401333279378,1
+2024-01,Yamoussoukro,2,850836,Particuliers locaux,Côte d’Ivoire,0.7465401333279378,1
+2024-01,Yamoussoukro,2,877775,Entreprises locales,Côte d’Ivoire,0.7465401333279378,1
+2024-01,San Pedro,4,1701673,Particuliers locaux,Côte d’Ivoire,0.7465401333279378,1
+2024-01,San Pedro,4,1755551,Entreprises locales,Côte d’Ivoire,0.7465401333279378,1
+2024-02,Abidjan,4,1262878,Particuliers locaux,Côte d’Ivoire,0.7696940053119428,1
+2024-02,Abidjan,4,1294567,Entreprises locales,Côte d’Ivoire,0.7696940053119428,1
+2024-02,Bouaké,3,947159,Particuliers locaux,Côte d’Ivoire,0.7696940053119428,1
+2024-02,Bouaké,3,970925,Entreprises locales,Côte d’Ivoire,0.7696940053119428,1
+2024-02,Yamoussoukro,2,631439,Particuliers locaux,Côte d’Ivoire,0.7696940053119428,1
+2024-02,Yamoussoukro,2,647283,Entreprises locales,Côte d’Ivoire,0.7696940053119428,1
+2024-02,San Pedro,1,315719,Particuliers locaux,Côte d’Ivoire,0.7696940053119428,1
+2024-02,San Pedro,1,323641,Entreprises locales,Côte d’Ivoire,0.7696940053119428,1
+2024-03,Abidjan,5,1455600,Particuliers locaux,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Abidjan,5,1471529,Entreprises locales,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Abidjan,5,4444152,UNESCO,International,0.7562974464103998,1
+2024-03,Bouaké,3,873360,Particuliers locaux,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Bouaké,3,882917,Entreprises locales,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Bouaké,3,2666491,UNESCO,International,0.7562974464103998,1
+2024-03,Yamoussoukro,2,582240,Particuliers locaux,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Yamoussoukro,2,588611,Entreprises locales,Côte d’Ivoire,0.7562974464103998,1
+2024-03,Yamoussoukro,2,1777660,UNESCO,International,0.7562974464103998,1
+2024-03,San Pedro,2,582240,Particuliers locaux,Côte d’Ivoire,0.7562974464103998,1
+2024-03,San Pedro,2,588611,Entreprises locales,Côte d’Ivoire,0.7562974464103998,1
+2024-03,San Pedro,2,1777660,UNESCO,International,0.7562974464103998,1
+2024-04,Abidjan,5,1731337,Particuliers locaux,Côte d’Ivoire,0.781649547449215,1
+2024-04,Abidjan,5,1937933,Entreprises locales,Côte d’Ivoire,0.781649547449215,1
+2024-04,Bouaké,1,346267,Particuliers locaux,Côte d’Ivoire,0.781649547449215,1
+2024-04,Bouaké,1,387586,Entreprises locales,Côte d’Ivoire,0.781649547449215,1
+2024-04,Yamoussoukro,2,692535,Particuliers locaux,Côte d’Ivoire,0.781649547449215,1
+2024-04,Yamoussoukro,2,775173,Entreprises locales,Côte d’Ivoire,0.781649547449215,1
+2024-04,San Pedro,3,1038802,Particuliers locaux,Côte d’Ivoire,0.781649547449215,1
+2024-04,San Pedro,3,1162759,Entreprises locales,Côte d’Ivoire,0.781649547449215,1
+2024-05,Abidjan,3,1066893,Particuliers locaux,Côte d’Ivoire,0.7628069434114789,0
+2024-05,Abidjan,3,1373995,Entreprises locales,Côte d’Ivoire,0.7628069434114789,0
+2024-05,Bouaké,3,1066893,Particuliers locaux,Côte d’Ivoire,0.7628069434114789,0
+2024-05,Bouaké,3,1373995,Entreprises locales,Côte d’Ivoire,0.7628069434114789,0
+2024-05,Yamoussoukro,1,355631,Particuliers locaux,Côte d’Ivoire,0.7628069434114789,0
+2024-05,Yamoussoukro,1,457998,Entreprises locales,Côte d’Ivoire,0.7628069434114789,0
+2024-05,San Pedro,3,1066893,Particuliers locaux,Côte d’Ivoire,0.7628069434114789,0
+2024-05,San Pedro,3,1373995,Entreprises locales,Côte d’Ivoire,0.7628069434114789,0
+2024-06,Abidjan,3,1216477,Particuliers locaux,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Abidjan,3,1376105,Entreprises locales,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Abidjan,3,6329861,UNESCO,International,0.7754992993968304,1
+2024-06,Bouaké,3,1216477,Particuliers locaux,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Bouaké,3,1376105,Entreprises locales,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Bouaké,3,6329861,UNESCO,International,0.7754992993968304,1
+2024-06,Yamoussoukro,1,405492,Particuliers locaux,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Yamoussoukro,1,458701,Entreprises locales,Côte d’Ivoire,0.7754992993968304,1
+2024-06,Yamoussoukro,1,2109953,UNESCO,International,0.7754992993968304,1
+2024-06,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.7754992993968304,1
+2024-06,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.7754992993968304,1
+2024-06,San Pedro,0,0,UNESCO,International,0.7754992993968304,1
+2024-07,Abidjan,5,2329470,Particuliers locaux,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Abidjan,5,2263529,Entreprises locales,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Abidjan,5,3267340,Ambassade du Canada,Canada,0.7620533409114011,1
+2024-07,Bouaké,0,0,Particuliers locaux,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Bouaké,0,0,Entreprises locales,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Bouaké,0,0,Ambassade du Canada,Canada,0.7620533409114011,1
+2024-07,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.7620533409114011,1
+2024-07,Yamoussoukro,0,0,Ambassade du Canada,Canada,0.7620533409114011,1
+2024-07,San Pedro,2,931788,Particuliers locaux,Côte d’Ivoire,0.7620533409114011,1
+2024-07,San Pedro,2,905411,Entreprises locales,Côte d’Ivoire,0.7620533409114011,1
+2024-07,San Pedro,2,1306936,Ambassade du Canada,Canada,0.7620533409114011,1
+2024-08,Abidjan,1,542856,Particuliers locaux,Côte d’Ivoire,0.792462560380544,1
+2024-08,Abidjan,1,718520,Entreprises locales,Côte d’Ivoire,0.792462560380544,1
+2024-08,Abidjan,1,822753,Fondation Orange,France,0.792462560380544,1
+2024-08,Bouaké,3,1628570,Particuliers locaux,Côte d’Ivoire,0.792462560380544,1
+2024-08,Bouaké,3,2155560,Entreprises locales,Côte d’Ivoire,0.792462560380544,1
+2024-08,Bouaké,3,2468259,Fondation Orange,France,0.792462560380544,1
+2024-08,Yamoussoukro,0,0,Particuliers locaux,Côte d’Ivoire,0.792462560380544,1
+2024-08,Yamoussoukro,0,0,Entreprises locales,Côte d’Ivoire,0.792462560380544,1
+2024-08,Yamoussoukro,0,0,Fondation Orange,France,0.792462560380544,1
+2024-08,San Pedro,0,0,Particuliers locaux,Côte d’Ivoire,0.792462560380544,1
+2024-08,San Pedro,0,0,Entreprises locales,Côte d’Ivoire,0.792462560380544,1
+2024-08,San Pedro,0,0,Fondation Orange,France,0.792462560380544,1
