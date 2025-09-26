@@ -10,7 +10,7 @@ We had a problem:
 My solution:  
 - Standardized the reports with **Excel templates** (locked fields for consistency).  
 - Used **VBA macros** to auto-calc totals and reduce manual errors.  
-- Connected the data into **Power BI/Tableau** for real-time dashboards.  
+- Connected the data into **Tableau** for real-time dashboards.  
 
 This improved donor retention by **~20%** and raised on-time reporting to **95%**.  
 
@@ -37,16 +37,16 @@ This improved donor retention by **~20%** and raised on-time reporting to **95%*
    - **Scatterplot**: Relationship between funds raised and students supported.  
 
 4. **Automation**  
-   - Power BI refresh connected to central SharePoint folder (auto-updated CSV).  
+   - Tableau refresh connected to central SharePoint folder (auto-updated CSV).  
    - Stakeholders had access to the online dashboard anytime.
   
 ---
 
 ## Dashboard Highlights
-- **Retention Curve** → donor retention rate over time, benchmarked at 75%.  
-- **Donor Origins** → funding sources (Côte d’Ivoire, France, UNESCO, etc.).  
-- **Regional Impact** → number of students supported by each region.  
-- **Impact Scatterplot** → link between funds raised and students supported.  
+- **Retention Curve** -> donor retention rate over time, benchmarked at 75%.  
+- **Donor Origins** -> funding sources (Côte d’Ivoire, France, UNESCO, etc.).  
+- **Regional Impact** -> number of students supported by each region.  
+- **Impact Scatterplot** -> link between funds raised and students supported.  
 
 ![Dashboard](DM_Confection_Financial.jpeg)
 
@@ -64,14 +64,14 @@ The dataset (`NGO_Data_Final.csv`) contains:
 ---
 
 ## Tools Used
-- **Excel** → templates + macros for automation  
-- **Power BI/Tableau** → dashboard and reporting  
-- **CSV** → structured dataset for reproducibility  
+- **Excel** -> templates + macros for automation  
+- **Tableau** -> dashboard and reporting  
+- **CSV** -> structured dataset for reproducibility  
 
 ---
 
 ## Impact
-- Donor retention grew from **60% → 80%** (2018–2024).  
+- Donor retention grew from **60% -> 80%** (2018–2024).  
 - Over **700 students** supported.  
 - New donors onboarded (UNESCO in 2023).  
 - Gave stakeholders **clear visibility** and faster updates.  
